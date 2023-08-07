@@ -1,3 +1,6 @@
+env:
+	cp .env.sample .env
+
 h:
 	npx husky install
 
@@ -7,7 +10,7 @@ b:
 ts:
 	npm run ts
 
-js:
+a:
 	npm run build && npm run js
 
 or:
