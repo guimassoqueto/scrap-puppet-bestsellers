@@ -17,7 +17,7 @@
     "@commitlint/cli": "^17.6.7",
     "@commitlint/config-conventional": "^17.6.7",
     "@types/amqplib": "^0.10.1",
-    "@types/node": "^20.4.8",
+    "@types/node": "^20.4.10",
     "@types/user-agents": "^1.0.2",
     "husky": "^8.0.3",
     "typescript": "^5.1.6"
