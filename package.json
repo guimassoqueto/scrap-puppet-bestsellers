@@ -25,7 +25,7 @@
   "dependencies": {
     "amqplib": "^0.10.3",
     "dotenv": "^16.3.1",
-    "puppeteer": "^21.0.1",
+    "puppeteer": "^21.0.3",
     "ts-node": "^10.9.1",
     "user-agents": "^1.0.1444"
   }
