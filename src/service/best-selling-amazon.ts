@@ -10,6 +10,7 @@ export class BestSellingAmazon {
     const page = await browser.newPage()
     await page.setExtraHTTPHeaders(fakeHeader())
     await page.setViewport({width: 1920, height: 10800})
+    page.setDefaultTimeout(120000)
 
     for (const url of urls) {
       console.log(url)
